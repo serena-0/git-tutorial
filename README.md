@@ -22,6 +22,7 @@ git config --global user.email "you@example.com"
 cd E:\github
 git clone https://github.com/username/project.git
 cd project
+```bash
 
 之后可以在E:\github\project 直接cmd打开
 
